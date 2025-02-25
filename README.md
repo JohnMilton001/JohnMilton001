@@ -118,6 +118,37 @@ Check out the DevOps projects I've worked on! Each project showcases the tools a
 
 ---
 
+## 🎮 **Fun Games and Challenges** 
+
+To make my GitHub page even more interactive, I’ve added some fun games and challenges that you can try out! 🎮
+
+### 1. **[🎲 Roll a Dice Game](https://github.com/yourusername/roll-a-dice)**  
+Roll the dice and see what you get!  
+- **How to Play**: Simply click to roll the dice and see the result.  
+- **Technologies Used**: JavaScript, HTML, CSS
+
+---
+
+### 2. **[🧩 Sudoku Solver](https://github.com/yourusername/sudoku-solver)**  
+Try your hand at solving a **Sudoku** puzzle, or let the app solve it for you!  
+- **How to Play**: Enter numbers and let the app fill in the rest.  
+- **Technologies Used**: Python, Pygame
+
+---
+
+### 3. **[🚀 Space Invaders Game](https://github.com/yourusername/space-invaders)**  
+A classic **Space Invaders** game for you to enjoy!  
+- **How to Play**: Use arrow keys to move, and spacebar to shoot.  
+- **Technologies Used**: JavaScript, HTML5 Canvas
+
+---
+
+### 4. **[💡 Code Challenges](https://github.com/yourusername/code-challenges)**  
+I’ve put together a collection of small programming challenges that help practice coding skills. Check them out and see how fast you can solve them!  
+- **Languages Used**: Python, JavaScript, Bash
+
+---
+
 ## 📜 **Why DevOps?**
 
 DevOps is all about unifying development and operations, enabling faster, more reliable software delivery. I'm passionate about leveraging my skills in **AWS**, **automation**, and **cloud technologies** to help organizations achieve better efficiency and productivity in their software development lifecycle.
