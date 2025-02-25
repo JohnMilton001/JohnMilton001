@@ -2,28 +2,28 @@
 
 ## 👨‍💼 **Professional Summary**
 
-A dedicated and adaptable professional with a background in **Civil Engineering**, **Interior Design**, and **IT Recruitment**. Recently completed training in **AWS DevOps**, seeking to transition into the role of an **AWS DevOps Engineer**. I bring **strong problem-solving skills**, technical acumen, and a passion for **cloud computing** and **automation**. I am eager to apply my skills in **AWS DevOps** to drive the success of innovative projects in a dynamic, collaborative team environment.
+I am a versatile and results-driven professional with a diverse background spanning **Interior Designer**, **IT Recruitment**, and **DevOps**. Currently working as an **IT Recruiter**, I have gained valuable insights into the technology industry, enabling me to identify top talent and understand the evolving needs of businesses in the tech space.
 
-With my unique mix of **engineering**, **design**, and **IT recruitment** experience, I am well-versed in both technical and soft skills. I am committed to leveraging my recent training in **AWS**, **DevOps**, and **cloud technologies** to contribute effectively to your organization's success.
+Recently, I completed a comprehensive **DevOps course** with a focus on **AWS Cloud**, and I am now actively seeking opportunities to transition into an **AWS DevOps Engineer** role. My goal is to apply my strong **problem-solving abilities**, technical acumen, and passion for **cloud technologies** to help organizations streamline their operations, automate workflows, and build scalable cloud infrastructures.
+
+With my background in **Interior Design**, I bring a unique perspective on creativity and attention to detail, while my experience as an **IT Recruiter** has honed my communication, collaboration, and organizational skills. I am excited to leverage my skills in **AWS**, **DevOps**, and **cloud infrastructure** to contribute to the success of forward-thinking teams and innovative projects.
 
 ---
 
 ## 🧑‍💻 **About Me**
 
-Hi there! I'm passionate about bridging the gap between development and operations. With a deep understanding of **cloud platforms** like **AWS**, containerization technologies like **Docker**, and modern orchestration with **Kubernetes**, I strive to create **efficient**, **scalable**, and **automated** systems that make software delivery seamless.
+Hi! I'm excited about the opportunity to bring my unique skill set to a **DevOps** or **AWS Cloud** position. I have recently completed training in **DevOps** and **AWS Cloud** technologies, which have equipped me with a solid foundation in **cloud computing**, **automation**, and **infrastructure management**. I am passionate about bridging the gap between development, operations, and cloud platforms to optimize workflows, enhance productivity, and ensure scalable and resilient systems.
 
 - **Key Interests**:  
-  - **Cloud Infrastructure**: AWS, Azure  
-  - **CI/CD Pipelines**: Jenkins, GitLab CI, CircleCI  
+  - **Cloud Infrastructure**: AWS 
+  - **CI/CD Pipelines**: Jenkins, GitLab 
   - **Containerization**: Docker, Kubernetes  
-  - **Automation**: Terraform, Ansible  
-  - **Monitoring & Logging**: Prometheus, Grafana, ELK Stack  
-
+  - **Automation**: Terraform
 ---
 
 ## 🚀 **My DevOps Projects**
 
-Explore a selection of projects I've worked on, showcasing the tools and technologies I've used to build robust, scalable, and automated solutions.
+Explore the DevOps projects that demonstrate my skills in **AWS Cloud**, **automation**, **containerization**, and **CI/CD** pipelines.
 
 ### 1. **[CI/CD Pipeline Automation with AWS](link-to-repo)**  
 **Description**: Automated a full-fledged CI/CD pipeline using **Jenkins** and **AWS** for a microservices-based application. Integrated testing, building, and deployment into AWS infrastructure with **S3**, **EC2**, and **ECS**.
@@ -31,7 +31,7 @@ Explore a selection of projects I've worked on, showcasing the tools and technol
 - **Key Features**:  
   - Continuous integration with automated builds and tests  
   - Automated deployment to **AWS ECS** using **Docker** containers  
-  - Infrastructure provisioning using **Terraform**  
+  - Infrastructure provisioning using **Terraform**
 
 ---
 
@@ -41,7 +41,7 @@ Explore a selection of projects I've worked on, showcasing the tools and technol
 - **Key Features**:  
   - Infrastructure provisioning and management via **Terraform**  
   - Secure network architecture with **AWS VPC**  
-  - Automated deployments using **GitLab CI/CD**  
+  - Automated deployments using **GitLab CI/CD**
 
 ---
 
@@ -59,11 +59,12 @@ Explore a selection of projects I've worked on, showcasing the tools and technol
 
 ### **DevOps Tools & Technologies**
 - **CI/CD**: Jenkins, GitLab, GitHub Actions  
-- **Cloud Platforms**: AWS (EC2, S3, RDS, ECS, EKS, Lambda),   
-- **Automation**: Terraform
+- **Cloud Platforms**: AWS (EC2, S3, RDS, ECS, EKS, Lambda)  
+- **Automation**: Terraform, Ansible 
 - **Containerization & Orchestration**: Docker, Kubernetes, Docker Swarm  
 
 ### **Programming & Scripting**
+- **Languages**: Bash (Shell Scripting), Python (Learning)  
 - **Infrastructure as Code**: Terraform, CloudFormation  
 - **Cloud Automation**: AWS CloudFormation, AWS CLI  
 
@@ -79,9 +80,8 @@ Explore a selection of projects I've worked on, showcasing the tools and technol
 
 Feel free to reach out if you're interested in discussing DevOps methodologies, collaborating on projects, or learning about my DevOps journey. I'm always looking to grow my network and contribute to the DevOps community.
 
-- **📧 Email**: johnmilton143@gmail.com 
-- **🔗 LinkedIn**:  
-
+- **📧 Email**: johnmilton143@gmail.com
+- **🔗 LinkedIn**: 
 
 ---
 
