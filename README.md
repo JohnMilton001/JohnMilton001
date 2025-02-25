@@ -55,27 +55,15 @@ Explore a selection of projects I've worked on, showcasing the tools and technol
 
 ---
 
-### 4. **[Monitoring & Alerting System with Prometheus & Grafana](link-to-repo)**  
-**Description**: Implemented a **monitoring** and **alerting** system with **Prometheus** and **Grafana** to track application and infrastructure health. Set up alerts for system performance and resource consumption.
-- **Technologies Used**: Prometheus, Grafana, Docker  
-- **Key Features**:  
-  - Real-time metrics collection and monitoring  
-  - **Grafana** dashboards for visual insights into system performance  
-  - **Prometheus** alerts based on pre-defined thresholds
-
----
-
 ## 🛠️ **Skills & Expertise**
 
 ### **DevOps Tools & Technologies**
-- **CI/CD**: Jenkins, GitLab CI, CircleCI, Travis CI, GitHub Actions  
-- **Cloud Platforms**: AWS (EC2, S3, RDS, ECS, EKS, Lambda), Azure  
-- **Automation**: Terraform, Ansible, Chef, Puppet  
+- **CI/CD**: Jenkins, GitLab, GitHub Actions  
+- **Cloud Platforms**: AWS (EC2, S3, RDS, ECS, EKS, Lambda),   
+- **Automation**: Terraform
 - **Containerization & Orchestration**: Docker, Kubernetes, Docker Swarm  
-- **Monitoring & Logging**: Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana)  
 
 ### **Programming & Scripting**
-- **Languages**: Bash (Shell Scripting), Python (Learning)  
 - **Infrastructure as Code**: Terraform, CloudFormation  
 - **Cloud Automation**: AWS CloudFormation, AWS CLI  
 
@@ -91,19 +79,9 @@ Explore a selection of projects I've worked on, showcasing the tools and technol
 
 Feel free to reach out if you're interested in discussing DevOps methodologies, collaborating on projects, or learning about my DevOps journey. I'm always looking to grow my network and contribute to the DevOps community.
 
-- **📧 Email**: [Your email]  
-- **🔗 LinkedIn**: [Your LinkedIn URL]  
-- **🌐 Website/Blog**: [Your website/blog URL]  
+- **📧 Email**: johnmilton143@gmail.com 
+- **🔗 LinkedIn**:  
 
----
-
-## 📈 **GitHub Stats & Achievements**
-
-### 🔥 **GitHub Stats**
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&theme=radical)
-
-### 🏆 **GitHub Achievements**
-![Your GitHub Achievements](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical)
 
 ---
 
