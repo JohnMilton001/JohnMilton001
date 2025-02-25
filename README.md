@@ -57,16 +57,6 @@ Check out the DevOps projects I've worked on! Each project showcases the tools a
 
 ---
 
-### 4. **[Monitoring & Alerting with Prometheus & Grafana](link-to-repo)**  
-📝 **Description**: Set up **Prometheus** and **Grafana** for monitoring and alerting on application and infrastructure health.  
-- **Technologies Used**: Prometheus, Grafana, Docker  
-- 🔑 **Key Features**:  
-  - Real-time metrics collection via **Prometheus**
-  - **Grafana** dashboards for visual insights
-  - **Alerting** based on defined thresholds
-
----
-
 ## 🛠️ **Skills & Expertise**
 
 ### **🔧 DevOps Tools & Technologies**
@@ -105,47 +95,6 @@ Check out the DevOps projects I've worked on! Each project showcases the tools a
 - 📧 **Email**: [Your email]  
 - 🔗 **LinkedIn**: [Your LinkedIn URL]  
 - 🌐 **Website/Blog**: [Your website/blog URL]
-
----
-
-## 📈 **GitHub Stats & Achievements**
-
-### 🔥 **GitHub Stats**
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&theme=radical)
-
-### 🏆 **GitHub Achievements**
-![Your GitHub Achievements](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical)
-
----
-
-## 🎮 **Fun Games and Challenges** 
-
-To make my GitHub page even more interactive, I’ve added some fun games and challenges that you can try out! 🎮
-
-### 1. **[🎲 Roll a Dice Game](https://github.com/yourusername/roll-a-dice)**  
-Roll the dice and see what you get!  
-- **How to Play**: Simply click to roll the dice and see the result.  
-- **Technologies Used**: JavaScript, HTML, CSS
-
----
-
-### 2. **[🧩 Sudoku Solver](https://github.com/yourusername/sudoku-solver)**  
-Try your hand at solving a **Sudoku** puzzle, or let the app solve it for you!  
-- **How to Play**: Enter numbers and let the app fill in the rest.  
-- **Technologies Used**: Python, Pygame
-
----
-
-### 3. **[🚀 Space Invaders Game](https://github.com/yourusername/space-invaders)**  
-A classic **Space Invaders** game for you to enjoy!  
-- **How to Play**: Use arrow keys to move, and spacebar to shoot.  
-- **Technologies Used**: JavaScript, HTML5 Canvas
-
----
-
-### 4. **[💡 Code Challenges](https://github.com/yourusername/code-challenges)**  
-I’ve put together a collection of small programming challenges that help practice coding skills. Check them out and see how fast you can solve them!  
-- **Languages Used**: Python, JavaScript, Bash
 
 ---
 
