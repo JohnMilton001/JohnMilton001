@@ -2,7 +2,7 @@
 
 ## 👨‍💼 **Professional Summary**
 
-🌐 I am a versatile and results-driven professional with a diverse background in **Interior Design**, **HR Human Resource**, and **DevOps**. Currently working as an **IT Recruiter**, I have developed strong insights into the tech industry, understanding business needs and talent acquisition in the field.
+🌐 I am a versatile and results-driven professional with a diverse background in **Interior Design**, **IT Recruiter & HR Human Resource**, and **DevOps**. Currently working as an **IT Recruiter & HR Human Resource**, I have developed strong insights into the tech industry, understanding business needs and talent acquisition in the field.
 
 🚀 Recently, I completed an intensive **DevOps course** focusing on **AWS Cloud** technologies, and I'm eager to transition into a role as an **AWS DevOps Engineer**. With a passion for **cloud computing**, **automation**, and **scalable infrastructure**, I’m seeking opportunities to leverage my skills and grow within an innovative DevOps environment.
 
